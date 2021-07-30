@@ -8,7 +8,7 @@ I study it and modify some code that I can understand clearly.
 
 This project contains the following scripts and jupyter notebooks:
 
-**train_singlenet_mobilenetv3.py** - training code for the new model presented in this paper [Single-Network Whole-Body Pose Estimation](https://arxiv.org/abs/1909.13423).
+**train_singlenet_mobilenetv3.py** - training code for the openpose_singlenet model presented in this paper [Single-Network Whole-Body Pose Estimation](https://arxiv.org/abs/1909.13423).
 
 **train_2br_vgg_v2.py and train_2br_vgg_v2.ipynb** - training code for the old CMU model (2017). This is a new version of the training code from the old repo *keras_Realtime_Multi-Person_Pose_Estimation*. It has been upgraded to Tensorflow 2.0.
 
