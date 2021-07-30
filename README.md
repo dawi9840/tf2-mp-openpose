@@ -43,7 +43,8 @@ This project contains the following scripts and jupyter notebooks:
     └── tensorflow_Realtime_Multi-Person_Pose_Estimation/*
 ```
                 
-* install [CUDNN](https://developer.nvidia.com/cudnn) and [CUDA](https://developer.nvidia.com/cuda-downloads)
+* RTX 30 series GPU.
+* Package need tensorflow-gpu above version 2.2.
 
 
 ## Install
