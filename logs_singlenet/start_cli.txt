@@ -1,0 +1,3 @@
+To start up the tensorboard, in the bash use the command:
+
+~$: tensorboard --logdir=[complete path]/tf2-mp-openpose/logs_singlenet/logs_singlenet/gradient_tape/[record file]
