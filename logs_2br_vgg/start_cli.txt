@@ -1,0 +1,5 @@
+tensorboard --logdir=
+
+
+tensorboard --logdir=/home/dawi/py/tensorflow_Realtime_Multi-Person_Pose_Estimation/logs_2br_vgg/gradient_tape/20210726-144703
+
