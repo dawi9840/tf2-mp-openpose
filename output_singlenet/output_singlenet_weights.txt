@@ -1,0 +1,4 @@
+The weights file is too big over than 25MB. So I put the file in google cloud. Unzip the file and you can see the weights.
+
+link: https://drive.google.com/drive/folders/1zM2Zp23WbZ9k5SZdskPDsSCvedCDknf3?usp=sharing
+ 
